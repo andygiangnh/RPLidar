@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Records measurments to a given file. Usage example:
+'''Records measurments to a given file in csv format. Usage example:
 
 $ ./record_measurments.py out.txt'''
 import sys
